@@ -1,5 +1,5 @@
-﻿# To-Do-List-webapp
- # Responsive Counter App
+﻿#📝 To-Do-List-webapp
+
 
 A simple and responsive application built with **HTML, CSS, and JavaScript**.  
   This project enables users to add tasks, delete a specific task, and remove all tasks simultaneously.
@@ -13,7 +13,7 @@ A simple and responsive application built with **HTML, CSS, and JavaScript**.
 - Fast and smooth interactions 
 
  🔗 Live Demo  
-👉 [Click here to view the app](https://simple-counter-webapp.vercel.app/)  
+👉 [Click here to view the app](https://to-do-app-frontend.netlify.app/)  
 
 
 ## 🛠️ Technologies Used
@@ -45,7 +45,8 @@ A simple and responsive application built with **HTML, CSS, and JavaScript**.
 
 > Add your app screenshot here:
 >
-> `![App Screenshot](./screenshot.png)`
+> `!<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b95abf65-1aea-4a1e-93cf-a99dbd177796" />
+`
 
 ---
 
