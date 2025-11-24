@@ -20,16 +20,6 @@ A simple and responsive application built with **HTML, CSS, and JavaScript**.
 - **HTML5**  
 - **CSS3** (Responsive styling & Flexbox)  
 - **JavaScript (ES6)**  
-
----
-
-## 📸 Screenshots
-
-
-
-
----
-
 ---
 
 ## ▶️ How to Use
@@ -42,11 +32,7 @@ A simple and responsive application built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 📸 Screenshot
-
-> Add your app screenshot here:
->
-> `!<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b95abf65-1aea-4a1e-93cf-a99dbd177796" />
-`
+<img width="1855" height="876" alt="laptop view" src="https://github.com/user-attachments/assets/33f9bfc1-2bea-4dbd-90a2-8bdd01cf9a4e" />
 
 ---
 
